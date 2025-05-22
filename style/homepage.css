@@ -1,0 +1,83 @@
+/* CSS Document */
+
+body {
+	background-color:#ccc;
+	margin:0;
+	font-family:'Palatino Linotype',serif;
+}
+
+a:link {
+	color: #b00;
+}
+
+a:visited {
+	color: #a00;
+}
+
+a:focus{
+	outline:none;
+}
+
+h1 {
+	margin:0;
+}
+
+#Left {
+	background-image: url(../Assets/grad_left.gif); 
+	background-repeat: repeat-y;
+}
+
+#Right {
+	background-image: url(../Assets/grad_right.png); 
+	background-repeat: repeat-y;
+	margin-left:240px;
+}	
+
+#Body {
+	position:relative;
+	margin-left:-240px;
+}
+
+#Body ul{
+	list-style-image:url(../Assets/bullet.png); 
+	margin:0 0 20px -10px;
+}
+
+.TLeft {
+	vertical-align:top;
+	color:#ddd;
+	text-align:right;
+	font-weight:bold;
+	width:230px;
+}
+
+.TLeft img {
+	width:200px;
+	margin:15px 13px 15px 0px;
+	border:2px solid #777;
+}
+
+.TRight {
+	color:#222;
+}
+
+.TRight img {
+	width:120px;
+	height:90px;
+	border:1px solid #444;	
+	margin:0 50px;
+}
+
+#Foot {
+	background-color:#ddd;
+	background-image:url(../Assets/grad_foot.png); 
+	background-repeat:repeat-x;
+	border-top:1px solid #fff;
+	font-size: 65%;
+	text-align: center;
+	box-sizing:border-box;	
+	-moz-box-sizing: border-box;
+	padding:5px 0;
+	height:50px;
+	color:#444;
+}

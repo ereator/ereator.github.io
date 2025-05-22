@@ -1,0 +1,12 @@
+@article{KosovPRJ2018,
+  author = {Kosov, Sergey and Shirahama, Kimiaki and Li, Chen and Grzegorzek, Marcin},
+  title = {Environmental microorganism classification using conditional random fields and deep convolutional neural networks},
+  journal = {Pattern Recognition},
+  volume = {77},
+  pages = {248--261},
+  year = {2018},
+  issn = {0031-3203},
+  doi = {https://doi.org/10.1016/j.patcog.2017.12.021},
+  url = {http://www.sciencedirect.com/science/article/pii/S0031320317305174},
+  keywords = {Environmental microorganism, Conditional random fields, Global feature extraction, Image classification, Image segmentation}
+}

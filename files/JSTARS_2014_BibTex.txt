@@ -1,0 +1,12 @@
+@article{BraunJSTARS2014,
+	author = {Braun, Andreas Christian and Rojas, Carolina and Echeverri, Cristian and Rottensteiner, Franz and B{\"a}hr, Hans-Peter and Niemeyer, Joachim and Arias, Mauricio Aguayo  and  Kosov, Sergey and Hinz, Stefan and Weidner, Uwe},
+	title = {Design of a Spectral - Spatial Pattern Recognition Framework for Risk Assessments Using Landsat Data - A Case Study in {C}hile},
+	journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)},
+	volume = {7},
+	number = {1},
+	year = {2014},
+	month = mar,
+	pages = {917--928},
+	issn = {1939-1404},
+	doi = {http://dx.doi.org/10.1109/JSTARS.2013.2293421}
+}

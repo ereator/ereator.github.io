@@ -1,0 +1,10 @@
+@phdthesis{Kosov2018,
+	author = {Kosov, Sergey},
+	title = {Multi-Layer Conditional Random Fields for Revealing Unobserved Eentities},
+	school = {Siegen University},
+	year = {2018},
+	DOI = {10.13140/RG.2.2.12409.31844},
+	URN = {urn:nbn:de:hbz:467-13434},
+	URL = {http://dokumentix.ub.uni-siegen.de/opus/volltexte/2018/1343},
+}
+

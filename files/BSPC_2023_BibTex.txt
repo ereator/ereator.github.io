@@ -1,0 +1,12 @@
+@article{KosovBSPC2023, 
+  author = {Kulwa, Frank and Li, Chen and Grzegorzek, Marcin and Rahaman, Md Mamunur and Shirahama, Kimiaki and Kosov, Sergey},
+  title = {Segmentation of weakly visible environmental microorganism images using pair-wise deep learning features},
+  journal = {Biomedical Signal Processing and Control},
+  volume = {79},
+  pages = {104168},
+  year = {2023},
+  doi = {https://doi.org/10.1016/j.bspc.2022.104168},
+  issn = {1746-8094},
+  url = {https://www.sciencedirect.com/science/article/pii/S174680942200622X},
+  keywords = {Microscopic images, Transparent microorganism, Image segmentation, Pair-wise features, Convolutional neural network, Environmental microorganism images}
+}

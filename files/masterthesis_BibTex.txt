@@ -1,0 +1,8 @@
+@mastersthesis{Kosov2008,
+	author = {Kosov, Sergey},
+	title = {{3D} Map Reconstruction With Variational Methods},
+	school = {Saarland University},
+	month = jan,
+	year = {2008}
+}
+

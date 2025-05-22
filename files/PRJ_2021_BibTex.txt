@@ -1,0 +1,12 @@
+@article{KosovPRJ2021, 
+  author = {Zhang, Jinghua and Li, Chen and Kosov, Sergey and Grzegorzek, Marcin and Shirahama, Kimiaki and Jiang, Tao and Sun, Changhao and Li, Zihan and Li, Hong},
+  title = {LCU-Net: A novel low-cost U-Net for environmental microorganism image segmentation},
+  journal = {Pattern Recognition},
+  volume = {115},
+  pages = {107885},
+  year = {2021},
+  issn = {0031-3203},
+  doi = {https://doi.org/10.1016/j.patcog.2021.107885},
+  url = {https://www.sciencedirect.com/science/article/pii/S0031320321000728},
+  keywords = {Environmental miroorganisms, Image segmentation, Deep convolutional neural networks, Low-cost}
+}

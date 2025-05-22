@@ -1,0 +1,12 @@
+@article{KosovCMRT2013,
+	author = {Kosov, Sergey and Rottensteiner, Franz and Heipke, Christian and Leitloff, Jens and Hinz, Stefan},
+	title = {The Application of a Car Confidence Feature for the Classification of Cross-Roads Using Conditional Random Fields},
+	journal = {ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences},
+	volume = {II-3/W3},
+	year = {2013},
+	pages = {43--48},
+	url = {http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-3-W3/43/2013/},
+	doi = {10.5194/isprsannals-II-3-W3-43-2013}
+}
+
+

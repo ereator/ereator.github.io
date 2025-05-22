@@ -1,0 +1,9 @@
+@inproceedings{Bulavinov2007,
+	author={Bulavinov, Andrey and Kosov, Sergey and Kr\"oning, Michael and Pinchuk, Roman and Pudovikov, Sergey and Ramanan, Sridaran Venkat and Reddy, Krishna Mohan and Jastribava, Olga and Zhantlesov, Yerbol},
+	title={Die getaktete Gruppenstrahlertechnik und ihre Anwendungen},
+	booktitle={Seminar ''Moderne Systemtechnik bei Pr\"ufungen mit Ultraschall'' des Fachausschusses ''Ultraschall'' der DGZfP},
+	volume={12},
+	pages={1--16},
+	year={2007}
+}
+

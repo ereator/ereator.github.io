@@ -1,0 +1,8 @@
+@inproceedings{KosovISPRS2012,
+	author = {Kosov, Sergey and Rottensteiner, Franz and Heipke, Christian and Leitloff, Jens and Hinz, Stefan},
+	title = {3d Classification Of Crossroads From Multiple Aerial Images Using Markov Random Fields},
+	booktitle = {Proc. 22nd ISPRS Congress},
+	year = {2012},
+	pages = {XXXIX-B3:479-484},
+	bibsource = {http://www.visionbib.com/bibliography/cartog933.html#TT119213}
+}

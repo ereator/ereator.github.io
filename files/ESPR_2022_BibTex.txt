@@ -1,0 +1,10 @@
+@article{KosovESPR2022, 
+  author = {Kulwa, Frank and Li, Chen and Zhang, Jinghua and Shirahama, Kimiaki and Kosov, Sergey and Zhao, Xin and Jiang, Tao and Grzegorzek, Marcin},
+  title = {A new pairwise deep learning feature for environmental microorganism image analysis},
+  journal = {Environmental Science and Pollution Research},
+  volume = {29},
+  pages = {51909--51926},
+  year = {2022},
+  doi = {https://doi.org/10.1007/s11356-022-18849-0},
+  keywords = {Deep learning features, Feature extraction, Environmental microorganisms, Pairwise features, Image analysis}
+}

@@ -1,0 +1,12 @@
+@inproceedings{KosovICIP2010,
+	author = {Kosov, Sergey and Thorm{\"a}hlen, Thorsten and Seidel, Hans-Peter},
+	title = {Rapid Stereo-Vision Enhanced Face Recognition},
+	booktitle = {Proc. IEEE International Conference on Image Processing},
+	publisher = {IEEE},
+	year = {2010},
+	organization = {IEEE},
+	pages = {2437--2440},
+	address = {Hong-Kong, Hong-Kong},
+	month = {September},
+	isbn = {978-1-4244-7994-8},
+}

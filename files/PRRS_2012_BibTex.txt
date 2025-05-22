@@ -1,0 +1,10 @@
+@inproceedings{KosovPRRS2012,
+	author={Kosov, Sergey and Rottensteiner, Franz and Heipke, Christian},  
+	title={3D classification of crossroads from multiple aerial images using conditional random fields},
+	booktitle={Pattern Recognition in Remote Sensing (PRRS), 2012 IAPR Workshop on},
+	pages={1--4},
+	year={2012},
+	organization={IEEE}
+}
+
+

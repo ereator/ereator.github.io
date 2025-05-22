@@ -1,0 +1,13 @@
+@inproceedings{KosovSCIA2011,
+	author = {Sergey Kosov and Thorsten Thorm{\"a}hlen and Hans-Peter Seidel},
+	title = {Using Active Illumination for Accurate Variational Space-Time Stereo},
+	booktitle = {Proceedings of the 17th Scandinavian Conference on Image Analysis (SCIA)},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	volume = {6688},
+	year = {2011},
+	pages = {752-763},
+	isbn = {978-3-642-21226-0},
+	ee = {http://dx.doi.org/10.1007/978-3-642-21227-7_70},
+	bibsource = {DBLP, http://dblp.uni-trier.de}
+}

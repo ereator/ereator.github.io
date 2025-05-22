@@ -1,0 +1,13 @@
+@inproceedings{KosovICIP2009,
+	author = {Kosov, Sergey and Scherbaum, Kristina and Faber, Kamil and Thorm{\"a}hlen, Thorsten and Seidel, Hans-Peter},
+	title = {Rapid Stereo-Vision Enhanced Face Detection},
+	booktitle = {Proc. IEEE International Conference on Image Processing},
+	publisher = {IEEE},
+	year = {2009},
+	organization = {IEEE},
+	pages = {1221--1224},
+	address = {Cairo, Egypt},
+	month = {November},
+	isbn = {978-1-4244-5655-0},
+	isbn = {1522-4880},
+}

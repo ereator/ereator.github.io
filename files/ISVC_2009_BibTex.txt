@@ -1,0 +1,15 @@
+@inproceedings{KosovISVC2009,
+  author = {Sergey Kosov and Thorsten Thorm{\"a}hlen and Hans-Peter Seidel},
+  title = {Accurate Real-Time Disparity Estimation with Variational Methods.},
+  booktitle = {International Symposium on Visual Computing (ISVC)},
+  editor = {George Bebis and Richard D. Boyle and Bahram Parvin and Darko Koracin and Yoshinori Kuno and Junxian Wang and Renato Pajarola and Peter Lindstrom and Andr{\'e} Hinkenjann and Miguel L. Encarna\c{c}{\~a}o and Cl{\'a}udio T. Silva and Daniel S. Coming},
+  pages = {796--807},
+  publisher = {Springer},
+  series = {Lecture Notes in Computer Science},
+  url = {http://dblp.uni-trier.de/db/conf/isvc/isvc2009-1.html#KosovTS09},
+  volume = {5875},
+  year = {2009},
+  ee = {http://dx.doi.org/10.1007/978-3-642-10331-5_74},
+  isbn = {978-3-642-10330-8},
+  date = {2009-12-07}
+}
